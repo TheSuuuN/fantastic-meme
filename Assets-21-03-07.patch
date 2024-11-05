@@ -1,0 +1,8 @@
+diff --git forkSrcPrefix/boss.txt forkDstPrefix/boss.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..b51b9b696c6c8fb01b2d3ae84f21e36131632ac9
+--- /dev/null
++++ forkDstPrefix/boss.txt
+@@ -0,0 +1 @@
++"Dark knight"
+\ No newline at end of file
